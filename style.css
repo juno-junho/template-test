@@ -1,0 +1,8 @@
+html{
+    box-sizing: border-box;
+    /* padding을 아무 element에게 줄때, padding이  100% 넘어가면 스크롤바 생성 막아줌*/
+}
+body{
+    margin: 0;
+    min-height: 100vh;
+}
